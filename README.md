@@ -122,3 +122,4 @@ MIT — see [`LICENSE`](LICENSE).
 <div align="center">
 <sub>Windows · Game asset tooling · Open Source · spine-batch-exporter</sub>
 </div>
+‏
